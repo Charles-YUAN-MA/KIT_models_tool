@@ -18,3 +18,6 @@ You can modify the first index of the name of mesh folders in KIT_script.py, cha
 
 1. Kasper A, Xue Z, Dillmann R. The KIT object models database: An object model database for object recognition, localization and manipulation in service robotics. The International Journal of Robotics Research. 2012;31(8):927-934. doi:10.1177/0278364912445831
   https://journals.sagepub.com/doi/pdf/10.1177/0278364912445831
+
+
+by Charles Yuan MA,The Chinese University of Hong Kong.
